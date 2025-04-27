@@ -1,4 +1,3 @@
 ## ^_^
 -  🐒 Opa tranquilo? Me chamo Caio e sou estudante de Ciências da Computação
--  🙈 [CN](https://github.com/pedromxavier/flag-badges/blob/main/badges/CN.svg)
--  🙉 
+- # ![CN](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/CN%402x.png)
